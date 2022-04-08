@@ -3013,8 +3013,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5e707534-c918-46f7-a5cb-689e5a18b5bb)
     (property "Reference" "J1" (id 0) (at 43.18 19.05 0))
-    (property "Value" "USB_B_Micro" (id 1) (at 43.18 21.59 0))
-    (property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001" (id 2) (at 46.99 33.02 0)
+    (property "Value" "" (id 1) (at 43.18 21.59 0))
+    (property "Footprint" "" (id 2) (at 46.99 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 46.99 33.02 0)
@@ -4001,7 +4001,7 @@
       (reference "D2") (unit 1) (value "LED") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/5e707534-c918-46f7-a5cb-689e5a18b5bb"
-      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex_47346-0001")
+      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex-105017-0001")
     )
     (path "/7870a9db-0a4b-4ce4-a426-dcf645359822"
       (reference "J2") (unit 1) (value "Conn_01x20") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical")
